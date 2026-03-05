@@ -16,7 +16,8 @@ public class TareaETS {
     public static void main(String[] args) {
         // TODO code application logic here
         int nunu=67;
-        
+        int nini=69;
+        //porfavor
         
         // keloke aki juanjo 
          int espaciosBlancos = 0;
