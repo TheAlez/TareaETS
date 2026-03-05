@@ -17,7 +17,7 @@ public class TareaETS {
         // TODO code application logic here
         int nunu=67;
         int nini=69;
-        //porfavor
+        //porfavor lol
         
         // keloke aki juanjo 
          int espaciosBlancos = 0;
