@@ -16,6 +16,24 @@ public class TareaETS {
     public static void main(String[] args) {
         // TODO code application logic here
         int nunu=67;
+        
+        
+        // keloke aki juanjo 
+         int espaciosBlancos = 0;
+        int asteriscos = 2 * nunu - 1;
+        
+        for (int fila = nunu; fila >= 1; fila--) {
+            for (int columnavacia = 1; columnavacia <= espaciosBlancos; columnavacia++) {
+                System.out.print(" ");
+            }
+            for (int columna =1; columna <= asteriscos; columna++) {   
+                System.out.print("*");
+            }
+            espaciosBlancos++;
+            asteriscos -= 2;
+            System.out.println();
+            
+        }
     }
     
 }
